@@ -1,0 +1,1 @@
+ALTER TABLE midia ADD origem VARCHAR(30) NOT NULL;

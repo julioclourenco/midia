@@ -1,0 +1,1 @@
+ALTER TABLE midia CHANGE tipoMidia tipo VARCHAR(30) NOT NULL;
